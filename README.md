@@ -1,6 +1,6 @@
 # Flutter Firebase Realtime Database Örnek Uygulaması
 
-Bu Flutter uygulaması, Firebase Realtime Database ile entegre edilmiş bir öğrenci ve kullanıcı yönetim sistemi sunar. HTTP paketi kullanılarak Firebase'den veri almak, REST işlemlerini simüle eder.
+Bu Flutter uygulaması, Firebase Realtime Database ile entegre edilmiş bir öğrenci ve kullanıcı yönetim sistemi sunar. HTTP paketi kullanılarak Firebase'den veri almak, uygulama için login işlemleri, gelen error işlemleri gibi  REST işlemlerini simüle eder.
 
 ## Kullanılan Teknolojiler
 
@@ -12,4 +12,4 @@ Bu Flutter uygulaması, Firebase Realtime Database ile entegre edilmiş bir öğ
 ## Özellikler
 
 - Kullanıcılar, HTTP paketi aracılığıyla Firebase Realtime Database'den veri alabilirler.
-- Uygulama, öğrenciler ve kullanıcılar için ayrı ayrı listeler oluşturur ve ekranda gösterir.
+- Uygulama, öğrenciler ve kullanıcılar için ayrı ayrı listeler oluşturur ve ekranda gösterir.Aynı zamanda login işlemlerini yapabilirler.
