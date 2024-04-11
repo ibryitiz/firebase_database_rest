@@ -41,7 +41,7 @@ class FirebaseService extends ChangeNotifier {
     }
   }
 
-  //! dOĞRU ÇALIŞSADA KENDİ KEYİNİ ATIYOR FİREBASE O KEYİ DEĞİŞTİREMEDİM.
+  //! Doğru çalışıyor ama bazı eksiklikler var...
   // Future<User> createUser(String name) async {
   //   final Map<String, dynamic> userData = {
   //     'name': name,
